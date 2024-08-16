@@ -52,7 +52,6 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
 </a>
 
-### GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnascimentosilva&layout=compact&theme=onedark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusnascimentosilva&show_icons=true&theme=onedark&title_color=ffffff)
+
+

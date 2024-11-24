@@ -21,7 +21,7 @@ Você pode acompanhar meu trabalho ou entrar em contato pelas plataformas abaixo
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://app.rocketseat.com.br/me/matheus-nascimento-silva-08396" target="_blank">
-    <img src="https://img.shields.io/badge/Rocketseat-7B4AE2?style=for-the-badge&logo=data:image/svg+xml;base64,<INSIRA_O_BASE64_DO_LOGO_AQUI>" alt="Rocketseat" />
+    <img src="https://cdn.worldvectorlogo.com/logos/rocketseat.svg" alt="Rocketseat" height="30" />
   </a>
   <a href="https://www.instagram.com/m_a_t_h_e_u_s_s/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />

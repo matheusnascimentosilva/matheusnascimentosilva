@@ -8,7 +8,7 @@
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=matheusnascimentosilva)
 
-- 🔭 I am currently working at **SS-DIGITAL**
+- 🔭 I am currently working at **Lanconi Soluções**
 - 🌱 I’m currently learning **React**
 
 ### Connect with me:

@@ -55,16 +55,3 @@ Aqui estão algumas tecnologias e ferramentas com as quais trabalho diariamente:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=matheusnascimentosilva&theme=onedark&row=1&no-frame=true&margin-w=10" alt="Troféus do GitHub" />
 </p>
-
-
----
-
-## ☕ Apoie meu trabalho
-
-Se você gosta do que faço, considere me apoiar:  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/matheusnascimentosilva" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
-  </a>
-</p>

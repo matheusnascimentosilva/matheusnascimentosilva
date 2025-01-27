@@ -14,19 +14,11 @@ Sou um desenvolvedor backend apaixonado por criar soluções práticas e eficien
 
 ## 🌐 Conecte-se comigo
 
-Você pode acompanhar meu trabalho ou entrar em contato pelas plataformas abaixo:  
+Sinta-se à vontade para me acompanhar ou entrar em contato por meio das plataformas abaixo:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-nascimento-silva-1131921b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://app.rocketseat.com.br/me/matheus-nascimento-silva-08396" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/rocketseat.svg" alt="Rocketseat" height="30" />
-  </a>
-  <a href="https://www.instagram.com/m_a_t_h_e_u_s_s/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-nascimento-silva-1131921b0/)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat-6D4AFF?style=for-the-badge&logo=apacherocketmq&logoColor=white)](https://app.rocketseat.com.br/me/matheus-nascimento-silva-08396)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_a_t_h_e_u_s_s/)
 
 ---
 
@@ -34,24 +26,20 @@ Você pode acompanhar meu trabalho ou entrar em contato pelas plataformas abaixo
 
 Aqui estão algumas tecnologias e ferramentas com as quais trabalho diariamente:  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="VueJs" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="50" />
-</p>
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🏆 Conquistas
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheusnascimentosilva&theme=onedark&row=1&no-frame=true&margin-w=10" alt="Troféus do GitHub" />
-</p>
+![GitHub Trophies](https://img.shields.io/badge/GitHub_Trophies-100000?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+

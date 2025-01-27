@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Matheus Nascimento!
 
-Sou um desenvolvedor backend apaixonado por criar soluções práticas e eficientes. Atualmente, trabalho com Laravel e estou expandindo meus conhecimentos em **React**. Sempre em busca de desafios que me permitam crescer e colaborar com projetos incríveis.
+Sou um desenvolvedor backend apaixonado por criar soluções práticas e eficientes. Atualmente, trabalho com Laravel e estou expandindo meus conhecimentos em **VueJs**. Sempre em busca de desafios que me permitam crescer e colaborar com projetos incríveis.
 
 ---
 

@@ -6,7 +6,7 @@ Sou um desenvolvedor backend apaixonado por criar soluções práticas e eficien
 
 ## 🚀 Sobre mim
 
-- 💼 Trabalho atualmente na **CodeLink**.  
+- 💼 Trabalho atualmente na **Vérttice**.  
 - 🌱 Estou aprendendo **VueJs** e aprimorando minhas habilidades em desenvolvimento full stack.  
 - 🎯 Minha meta é me especializar em arquitetura de software e contribuir para o crescimento de equipes técnicas.  
 

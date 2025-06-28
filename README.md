@@ -95,7 +95,7 @@
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/matheusnascimentosilva/matheusnascimentosilva/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/matheusnascimentosilva/matheusnascimentosilva/output/snake.svg)
 
 </div>
 

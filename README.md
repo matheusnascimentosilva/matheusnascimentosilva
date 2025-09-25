@@ -25,7 +25,7 @@
 <td width="50%">
 
 ### 💼 **Profissional**
-- 🏢 Trabalho atualmente na **Vérttice**
+- 🏢 Trabalho atualmente na **Gatewayfy**
 - 🎯 Especialista em desenvolvimento **Backend**
 - 📈 Focado em **arquitetura de software**
 - 🤝 Contribuindo para o crescimento de equipes técnicas

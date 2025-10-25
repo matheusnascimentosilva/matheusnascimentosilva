@@ -34,7 +34,7 @@
 <td width="50%">
 
 ### 🌱 **Aprendizado**
-- 🔥 Expandindo conhecimentos em **Vue.js**
+- 🔥 Expandindo conhecimentos em **TypeScript**
 - 📚 Aprimorando habilidades **Full Stack**
 - 🏗️ Estudando **arquitetura de software**
 - 🚀 Sempre explorando novas tecnologias
